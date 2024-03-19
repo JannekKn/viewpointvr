@@ -1,0 +1,6 @@
+2024/02/28-22:38:24.928 28b0 Creating DB D:/viewpointvr-main (1)/viewpointvr-main/viewpointvr/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/02/28-22:38:24.952 28b0 Reusing MANIFEST D:/viewpointvr-main (1)/viewpointvr-main/viewpointvr/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/28-22:45:11.633 1aa8 Level-0 table #5: started
+2024/02/28-22:45:11.668 1aa8 Level-0 table #5: 1167 bytes OK
+2024/02/28-22:45:11.672 1aa8 Delete type=0 #3
+2024/02/28-22:45:11.674 1aa8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
